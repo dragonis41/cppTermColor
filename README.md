@@ -2,7 +2,7 @@
 with with simple librairie you can make colored text in a terminal in c++
 
 example:
-'''C++
+
 
     #include <iostream>
     #include "color.h"
@@ -20,4 +20,4 @@ example:
       //this code is used to display the text "HELLO" blinking in red with black background
       printf("%s%s HELLO %s\n", BLINK, RED, BGBLACK);
     }
-'''
+
