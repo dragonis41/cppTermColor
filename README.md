@@ -1,5 +1,5 @@
 # cppTermColor
-with with simple librairie you can make colored text in a terminal in c++
+With this simple library you can make colored text or background in a terminal in c++
 
 example:
 
@@ -14,6 +14,9 @@ example:
     }
      
  or
+    
+    #include <iostream>
+    #include "color.h"
     
     int main()
     {
