@@ -1,7 +1,7 @@
 #ifndef COLOR_H
 #define COLOR_H
 
-//TEXT EFFECT COLOR
+// TEXT EFFECT COLOR
 #define  DEFAULT  	"\x1B[0m"
 #define  HIGHLIGHT 	"\x1B[1m"
 #define  DIM 		"\x1B[2m"
@@ -11,7 +11,7 @@
 #define  REVERSE 	"\x1B[7m"
 #define  HIDDEN 	"\x1B[8m"
 
-//FORGROUND COLOR (TEXT)
+// FORGROUND COLOR (TEXT)
 #define  RED 		"\x1B[31m"
 #define  GREEN 		"\x1B[32m"
 #define  YELLOW 	"\x1B[33m"
@@ -28,7 +28,7 @@
 #define  LCYAN 		"\x1B[96m"
 #define  WHITE 		"\x1B[97m"
 
-//bACKGROUND COLOR
+// BACKGROUND COLOR
 #define  BGDEFAULT 	"\x1B[49m"
 #define  BGBLACK 	"\x1B[40m"
 #define  BGRED 		"\x1B[41m"
